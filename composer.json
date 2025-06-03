@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28",
+        "phpmailer/phpmailer": "^6.8",
+        "bacon/bacon-qr-code": "^2.0",
+        "dasprid/enum": "^1.0",
+        "wildbit/postmark-php": "^6.0",
+        "sendinblue/api-v3-sdk": "^8.4"
+    }
+}
